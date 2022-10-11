@@ -9,12 +9,8 @@ else{
     console.log('BUNDAY KARTA RAQAM BOR');
 
 }if(idKarta <= 1000){
-    alert('UZUR');
-    console.log('UZUR');
 
 }else if(idKarta <= 2000){
-    alert('RAXMAD');
-    console.log('RAXMAD');
 } 
 
 
